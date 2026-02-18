@@ -66,5 +66,10 @@ bash start_xfce_calysto.sh
 bash delete_calysto.sh
 ```
 
+##### If you want to see posible commands:
+```
+bash commands.sh
+```
+
 
 # Have fun :)
