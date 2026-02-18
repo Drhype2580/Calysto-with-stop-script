@@ -37,5 +37,34 @@ A desktop envoierment based on XFCE for Termux: X11
 
 There are the XFCE apps, LXQT apps and some usefull stuf that I included (ex: Firefox, VS Code, Text editor...)
 
+---
+#### Step 1:
+Update the packeges
+```
+pkg update && pkg upgrade
+```
+
+#### Step 2:
+Install Calysto
+```
+cd Calysto
+bash install_calysto.sh
+```
+
+#### Step 3:
+Start Calysto
+```
+bash start_calysto.sh
+```
+or
+```
+bash start_xfce_calysto.sh
+```
+
+##### If you want to delete it:
+```
+bash delete_calysto.sh
+```
+
 
 # Have fun :)
