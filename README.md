@@ -31,7 +31,7 @@ A mini desktop envoierment based on XFCE for Termux: X11
 
 - Start Termux:X11 before running the scripts.
 
-- The desktop is scaled small (Go to aplications -> settings -> settings manager -> display to change the scale and resolution)
+- The desktop is scaled small (Go to Termux:X11 settings -> output -> display resolution mode -> scaled, and change the resolution)
 
 - The desktop is oriented horizontaly
 
